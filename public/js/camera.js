@@ -1,7 +1,7 @@
 function initCamera() {
   
   capture($('#camera-video'),
-  /      $('#camera-canvas'),
+       $('#camera-canvas'),
           $('camera-button'));
 }
 
